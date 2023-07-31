@@ -1,0 +1,44 @@
+image: $DOCKER_REGISTRY_PREFIX/2smart/utils/combined-ci-image:buildx
+
+stages:
+  - test
+  - build
+  - buildx
+
+before_script:
+  - git clone https://oauth2:$ACCESS_TOKEN@$DOCKER_UTILS_REPO_URL
+  - mv docker-utils/utils.sh docker.sh
+
+services:
+  - name: $DOCKER_REGISTRY_PREFIX/2smart/base-images/docker-dind
+    alias: docker
+
+lint:
+  before_script:
+    - npm i
+  stage: test
+  script:
+    - npm run test:lint
+  only:
+    - 'merge_requests'
+    - 'master'
+
+build:
+  stage: build
+  script:
+    - git clone https://oauth2:$ACCESS_TOKEN@gitlab.webbylab.com/SmartHome/docker-utils.git
+    - mv docker-utils/utils.sh docker.sh
+    - ./docker.sh rundaemon
+    - ./docker.sh build
+    - ./docker.sh push
+  only:
+    - 'master'
+
+buildx:
+  stage: buildx
+  script:
+    - ./docker.sh rundaemon
+    - ./docker.sh login
+    - SOURCE_TAG=$MULTIPLATFORM_TAG ./docker.sh buildx
+  when: manual
+  allow_failure: true

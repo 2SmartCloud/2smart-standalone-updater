@@ -1,0 +1,22 @@
+FROM docker:stable AS docker-stage
+FROM node:12.5-slim
+
+RUN apt-get update && apt-get -y install git
+
+WORKDIR /app
+
+COPY --from=docker-stage /usr/local/bin/docker /usr/local/bin/docker
+
+RUN curl -sfL "https://github.com/docker/compose/releases/download/v2.2.2/docker-compose-linux-armv7" -o /usr/local/bin/docker-compose
+RUN chmod +x /usr/local/bin/docker-compose
+
+COPY etc etc
+COPY lib lib
+COPY app.js app.js
+COPY runner.js runner.js
+COPY package.json package.json
+COPY package-lock.json package-lock.json
+
+RUN npm i --production
+
+CMD npm start

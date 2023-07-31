@@ -1,0 +1,23 @@
+{
+    "extends": [
+        "webbylab",
+        "plugin:jest/recommended"
+    ],
+    "env": {
+        "jest/globals": true
+    },
+    "plugins": [
+        "jest"
+    ],
+    "rules": {
+        "import/no-commonjs": 0,
+        "camelcase": 0,
+        "guard-for-in": 0,
+        "func-style": 0,
+        "no-param-reassign": 0,
+        "newline-after-var": 0,
+        "one-var": 0,
+        "no-sync": 0,
+        "no-empty": 0
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "author": "2Smart",
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "cron": "^1.8.2",
+        "dockerode": "^3.0.2",
+        "dotenv": "^8.2.0",
+        "envfile": "^4.5.0",
+        "fs-extra": "^8.1.0",
+        "homie-sdk": "github:2SmartCloud/2smart-standalone-homie-sdk",
+        "livr": "^2.0.2",
+        "livr-extra-rules": "^1.2.1",
+        "lodash": "^4.17.21",
+        "nanoid": "^2.1.9",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.5",
+        "yaml": "^1.9.2"
+    },
+    "description": "2Smart updater",
+    "devDependencies": {
+        "eslint": "^4.19.0",
+        "eslint-config-webbylab": "^4.0.0",
+        "eslint-plugin-fetch": "0.0.1",
+        "eslint-plugin-import": "^2.9.0",
+        "eslint-plugin-jest": "^22.14.1",
+        "eslint-plugin-more": "^0.3.1",
+        "eslint-plugin-no-require-lodash": "^1.1.0",
+        "eslint-plugin-prefer-spread": "^1.0.3",
+        "istanbul": "^1.1.0-alpha.1",
+        "jest": "^24.8.0",
+        "jest-environment-node": "^24.8.0",
+        "nodemon": "^1.17.2"
+    },
+    "main": "app.js",
+    "name": "2smart-updater",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:2SmartCloud/2smart-standalone-updater.git"
+    },
+    "scripts": {
+        "nodemon": "nodemon -L runner.js -e js",
+        "start": "node runner.js",
+        "test:lint": "eslint lib app.js --ext js"
+    },
+    "version": "1.0.0"
+}

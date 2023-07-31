@@ -1,0 +1,99 @@
+﻿END USER LICENSE AGREEMENT
+
+
+According to the terms and conditions of this End User License Agreement (hereinafter referred to as the “Agreement”) entered into between the Limited Liability Company “WEBBYLAB”, a legal entity registered and operating under the laws of Ukraine, code in the Unified State Register of Enterprises and Organizations of Ukraine: 41045300, registered office: house 6, Budindustrii Street, Kyiv city, 01013, Ukraine (hereinafter referred to as the Provider), and you, an individual or legal entity (hereinafter referred to as “You” or “User”), You are entitled to use the Software specified in the Article 1 of this Agreement. 
+The Software specified in the Article 1 of this Agreement may be stored on data carriers, sent by e-mail, downloaded via the Internet, downloaded from the Provider’s servers or other sources that meet the following conditions.
+
+
+This User rights agreement is not a sales contract. Under this Agreement, the Software shall be provided free of charge, and the Provider shall remain the owner of the copy of the Software and tangible media (if any), as well as all copies of the Software to which the User is entitled hereunder. 
+
+
+By installing, downloading, copying or using this Software, You agree to be bound by the terms and conditions of this Agreement. If You do not agree to any of the terms or conditions of this Agreement, cancel the installation or downloading, destroy or return the Software, installation media and accompanying documentation. 
+
+
+The use, downloading, installation, and copying of this Software shall mean that You have read this Agreement, understand its provisions and agree to be bound by them.
+
+
+1. Software. 
+The term “Software” in this Agreement shall mean: 
+1. computer program 2Smart Standalone covered by this Agreement, and all its components; 
+2. all content in electronic communications and any attachments or other media delivered with this Agreement, including the object code form of the Software delivered on data media, by e-mail, or downloaded via the Internet; 
+3. any explanatory material or any other possible documentation related to the Software, mainly any description of the Software, its specifications, any description of the Software properties or operation, any description of the operating environment in which the Software is applied, instructions for use or installation of the Software or any description of the Software use (hereinafter referred to as the Documentation); 
+4. Software copies, fix packs for the potential errors of the Software, supplements to the Software, Software extensions, modified versions of the Software and updates to the Software components (if any) licensed to You by the Provider in accordance with Article 3 of this Agreement. 
+
+
+“To modify” the Software shall mean to adapt or change all or part of the Software in a manner that requires the author’s permission, other than making an exact copy. The resulting work shall be called a “modified version” of the earlier work or a work “based on” the earlier work.
+
+
+2. Installation. 
+The Software delivered on a data carrier, by e-mail, downloaded via the Internet or from the Provider’s servers or obtained from other sources shall be subject to installation. The Software shall be installed on a properly configured computer. The installation method is described in the documentation. 
+The computer used for installation shall not contain software or hardware that may adversely affect the operation of the Software. The computer shall mean the equipment, including personal computers, laptops, workstations or other electronic devices, on which the Software is developed, to be installed and/or used. 
+
+
+3. License. 
+If you have accepted all the terms and conditions provided for herein and comply with them, the Provider grants You the following rights (hereinafter referred to as the “License”).
+3.1. Installation and use. You are provided with a non-exclusive right to install the Software on your computer’s hard disk drive or other data storage medium, to install and store the Software in your computer’s memory, and to install, store and display the Software. 
+3.2. Software modification. You may modify the Software, change its source code, and create derivative software based on the Software, subject to the following conditions: 
+- the work shall contain visible notices that You have changed it, and the corresponding date; 
+- the work shall contain prominent notices that it is released in accordance with this License; 
+- this Agreement, as well as any applicable additional terms, shall apply to the entire work and all parts thereof, regardless of how they are packaged.
+- if the work has interactive user interfaces, each shall display appropriate legal notices; 
+- You may not impose any further restrictions on the use of the rights to the modified Software granted or confirmed hereunder. For example, You are not entitled to collect license fees, royalties, or other fees, and You may not initiate legal proceedings (including counterclaims in legal proceedings) alleging that any rights to the modified Software are infringed by the production, use, sale, offer for sale, or importation of the Modified Software or any part thereof.
+3.3. Use for commercial purposes. The use of the Software for commercial purposes, including the sale of the Software, both individually and together with any equipment or products, is not allowed. The Software is provided solely for use by the individuals or legal entities for personal purposes. If You want to use the Software for commercial purposes, You need to contact the Provider by sending a letter to the e-mail address: contact@2smart.com.
+3.3. Term of the License. Your right to use the Software is not limited in time. 
+3.4. Termination of the License. The license shall terminate automatically if You fail to comply with the provisions of this Agreement, and the Provider shall have the right to terminate the Agreement without prejudice to its rights or remedies available to the Provider in such cases. In case of termination of the License, You shall immediately remove, destroy, or return, at Your own cost, the Software and all backup copies to the Provider. 
+3.5. Renewal. The Provider may from release updates to the Software time to time, but is not obliged to provide them.
+
+
+4. Data collection and technical support 
+The Provider does not collect any of Your data using the Software, does not receive feedback on the operation of the Software, and does not receive reports of errors in the operation of the Software. 
+The Provider does not provide technical support for the Software. 
+
+
+5. Protection of rights. 
+The Provider reserves all rights to the Software, except those expressly granted to You as the Software User pursuant to the terms of this Agreement. 
+The Provider reserves the right to unilaterally change the terms of this Agreement at any time. The restated version of the Agreement shall enter into force from the moment of its publication by the Provider.
+
+
+6. Restriction of the rights. 
+You may not distribute, extract the components or create derivative works based on this Software for commercial purposes. By using the Software, You agree to comply with the following restrictions. 
+6.1. You may not sell, rent out, lend, license, or use the Software for any commercial purpose. 
+6.2. You agree to use the Software only in a manner that complies with all applicable laws regulating its use, including applicable restrictions under copyright and other intellectual property laws. 
+
+
+7. Copyright. 
+The Software and all rights, including the title and related intellectual property rights, shall belong to the Provider. These rights are protected by the international law and all other applicable laws of the country in which the Software is used. 
+Any copies permitted to be made under the terms of this Agreement shall bear the same title and copyright notices applied in the Software. 
+
+
+8. Entry into force and termination of the Agreement. 
+This Agreement shall enter into force on the date of acceptance of its terms. You may terminate this Agreement by permanently deleting or destroying the Software, all backup copies and all related materials received from the Provider. Regardless of the manner in which this Agreement is terminated, the terms and conditions of Sections 5-7, 11 shall survive without limit of time. 
+
+
+9. Disclaimer. 
+As a user, You acknowledge that the Software is provided “as is” without any express or implied warranties to the fullest extent permitted by the applicable laws. The Provider makes no representations or warranties, express or implied, including warranties of fitness for a particular application or warranties that the Software does not infringe any patents, copyrights, trademarks or other rights of third parties. 
+Neither the Provider, nor any other party makes any warranty that the features of the Software will meet your requirements, or that it will operate in failure-free or error-free way. You acknowledge the risks associated with the selection of the Software to achieve the desired results, and you assume full responsibility for this, as well as for the installation, use and results that may be obtained from its use. 
+
+
+10. Absence of other obligations. 
+This Agreement does not create any obligations for the Provider and its licensors other than those expressly set forth herein. 
+
+
+
+
+11. Limitation of liability. 
+To the maximum extent permitted by the applicable laws, in no even shall the Provider, its employees or licensors be liable for any lost profits, revenue, reduced sales or loss of data, or additional costs related to the purchase of goods or services, caused property damage, personal injury, business interruption, loss of business information or any special, direct, indirect, incidental, commercial, punitive or consequential loss in any way caused by the operation of the agreement, civil tort, negligence or other fact that requires prosecution due to the use or inability to use the Software, even if the Provider is aware of the possibility of such losses. 
+Certain countries and jurisdictions do not provide for exclusion of liability, but may allow liability to be limited. In such case, the liability of the Provider, its employees, and licensors shall be limited to the amount of USD 0.1. 
+
+
+12. Notices.
+Any information and notices you wish to send to the Provider shall be sent to the following e-mail address: contact@2smart.com.
+
+
+13. Applicable laws.
+This Agreement shall be governed and interpreted in accordance with the legislation of Ukraine. You expressly agree that any disputes and issues with the Provider shall be resolved in accordance with the legislation of Ukraine at the Provider’s place of registration. 
+
+
+14. Miscellaneous.
+If any provision of this Agreement is found to be invalid or unenforceable, this shall not affect the validity of the other provisions of the Agreement, which continue to be valid in accordance with the conditions specified. In case of any discrepancies between different language versions of this Agreement, the version in Ukrainian shall prevail. 
+This Agreement represents the entire agreement between the Provider and You regarding the use of the Software, and supersedes all prior representations, discussions, warranties, communications or promotional materials regarding the Software.
